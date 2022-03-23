@@ -1,0 +1,15 @@
+this is in help.txt
+sdfsdf
+45747457 47457457
+5477457
+54745745
+sdfsdfsdfsdfsfsd
+shgshshsh
+hshsh
+dlfgjdlfgjdl;f
+
+this line is test version 1
+
+I have use git add after I add version 1 then add this line.
+
+I add this line after using git add
